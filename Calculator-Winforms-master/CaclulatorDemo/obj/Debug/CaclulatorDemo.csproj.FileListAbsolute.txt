@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\Calculator\Calculator-Winforms-master\CaclulatorDemo\bin\Debug\CaclulatorDemo.exe.config
+C:\Users\USER\Desktop\Calculator\Calculator-Winforms-master\CaclulatorDemo\bin\Debug\CaclulatorDemo.exe
+C:\Users\USER\Desktop\Calculator\Calculator-Winforms-master\CaclulatorDemo\bin\Debug\CaclulatorDemo.pdb
+C:\Users\USER\Desktop\Calculator\Calculator-Winforms-master\CaclulatorDemo\obj\Debug\CaclulatorDemo.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Calculator\Calculator-Winforms-master\CaclulatorDemo\obj\Debug\CaclulatorDemo.Form1.resources
+C:\Users\USER\Desktop\Calculator\Calculator-Winforms-master\CaclulatorDemo\obj\Debug\CaclulatorDemo.Properties.Resources.resources
+C:\Users\USER\Desktop\Calculator\Calculator-Winforms-master\CaclulatorDemo\obj\Debug\CaclulatorDemo.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Calculator\Calculator-Winforms-master\CaclulatorDemo\obj\Debug\CaclulatorDemo.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Calculator\Calculator-Winforms-master\CaclulatorDemo\obj\Debug\CaclulatorDemo.exe
+C:\Users\USER\Desktop\Calculator\Calculator-Winforms-master\CaclulatorDemo\obj\Debug\CaclulatorDemo.pdb
